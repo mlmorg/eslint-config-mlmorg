@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-mlmorg",
+  "version": "0.0.0",
+  "description": "My personal eslint configuration",
+  "keywords": [],
+  "author": "Matt Morgan <matt@mlmorg.com>",
+  "repository": "git://github.com/mlmorg/eslint-config-mlmorg.git",
+  "main": "eslintrc.json",
+  "homepage": "https://github.com/mlmorg/eslint-config-mlmorg",
+  "bugs": {
+    "url": "https://github.com/mlmorg/eslint-config-mlmorg/issues",
+    "email": "matt@mlmorg.com"
+  },
+  "contributors": [
+    {
+      "name": "Matt Morgan"
+    }
+  ],
+  "dependencies": {
+    "eslint-config-perf-standard": "^2.1.0"
+  },
+  "devDependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/mlmorg/eslint-config-mlmorg/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10.x"
+  }
+}
