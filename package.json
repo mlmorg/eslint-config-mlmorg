@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mlmorg",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My personal eslint configuration",
   "keywords": [],
   "author": "Matt Morgan <matt@mlmorg.com>",
@@ -16,10 +16,11 @@
       "name": "Matt Morgan"
     }
   ],
-  "dependencies": {
-    "eslint-config-perf-standard": "^2.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
+  "peerDependencies": {
+    "eslint": "^3.0.0"
+  },
   "licenses": [
     {
       "type": "MIT",
