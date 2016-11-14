@@ -19,7 +19,7 @@
   "dependencies": {},
   "devDependencies": {},
   "peerDependencies": {
-    "eslint": "^1.0.0"
+    "eslint": ">= 1.0.0 < 4.0.0"
   },
   "licenses": [
     {
